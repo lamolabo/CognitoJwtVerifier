@@ -1,0 +1,21 @@
+{
+    "name": "lamolabo/cognito-jwt-verifier",
+    "description": "cognito jwt verifier",
+    "type": "library",
+    "authors": [
+        {
+            "name": "omoon",
+            "email": "omooon@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "firebase/php-jwt": "^5.5",
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "CogintoJwtVerifier\\": "src"
+        }
+    }
+}
