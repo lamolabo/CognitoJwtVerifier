@@ -1,6 +1,6 @@
 <?php
 
-namespace CognitoJwtVerifier;
+namespace Lamolabo\CognitoJwtVerifier;
 
 use Firebase\JWT\JWK;
 use Firebase\JWT\JWT;

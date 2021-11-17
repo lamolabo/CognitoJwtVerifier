@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "CogintoJwtVerifier\\": "src"
+            "Lamolabo\\CogintoJwtVerifier\\": "src"
         }
     }
 }
