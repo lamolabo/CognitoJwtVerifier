@@ -2,6 +2,8 @@
     "name": "lamolabo/cognito-jwt-verifier",
     "description": "cognito jwt verifier",
     "type": "library",
+    "license": "MIT",
+    "composer-runtime-api": "^2.0",
     "authors": [
         {
             "name": "omoon",
